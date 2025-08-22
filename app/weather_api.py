@@ -55,3 +55,7 @@ def predict_weather(data: WeatherVariables):
 		prediction = 'No_rain'
 
 	return {'prediction': prediction}
+
+#Test the Github Actions
+
+
